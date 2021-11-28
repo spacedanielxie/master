@@ -1,4 +1,4 @@
-# churn Rate Prediction Analysis
+# Churn Rate Prediction Analysis
 
 Modeling: In order to improve user retention and lower churn, the growth team is interested in understanding why and which users withdraw money from their Robinhood account. A user is considered churned when their equity value falls below $10 for a period of 28 consecutive calender days or longer
 
